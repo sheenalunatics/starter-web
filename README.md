@@ -21,4 +21,4 @@ Please fork this repo and then issue Pull Request for review.
 
 ### Copyright
 
-Git.Traning.
+Git.Traning. All right reserved.
